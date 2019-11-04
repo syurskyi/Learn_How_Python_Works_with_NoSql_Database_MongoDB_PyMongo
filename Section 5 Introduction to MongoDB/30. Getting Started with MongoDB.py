@@ -1,2 +1,2 @@
-mongod
-mongo
+# mongod
+# mongo
