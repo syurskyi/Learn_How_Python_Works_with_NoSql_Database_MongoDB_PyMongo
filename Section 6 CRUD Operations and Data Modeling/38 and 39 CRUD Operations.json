@@ -1,0 +1,55 @@
+//show dbs
+//
+//use mydb
+
+//db.createCollection("call")
+//
+//db.call.insert(("name": "abc", "age": 20, "salary": 20000))
+//
+//db.call.find()
+//
+//db.call.find().pretty()
+
+//
+//db.call.update(("name": "abc", ($set : ("age" : 30))
+//
+//db.call.find().pretty()
+//
+//db.createCollection("a")
+//
+//db.a.insert(("name": "mary", "address": ("home" : "abc street", "office" : "xyz street")))
+//
+//db.a.find().pretty()
+//
+//db.a.update(("name" : "mary") ($set : ("address.home" : "123 street")))
+//
+//db.call.find().pretty()
+//
+//db.a.insert([("name" : "aa", "age" : 20), ("name" : "bb", "age" : 30, ("name" : "cc", "age" : 40)])
+//
+//db.a.insert(("name" : "aa", "age" : 44))
+//
+//db.a.update(("name" : "aa") ($set : ("age" : 60)), (multi : true))
+//
+//db.call.find().pretty()
+//
+//db.a.update(("name" : "cc"), ("name"  : "sam", "salary" : 30000))
+//
+//db.call.find().pretty()
+//
+//db.a.remove("name" : "sam")
+//
+//db.call.find().pretty()
+//
+//db.a.remove(("name" : "aa"), 1)
+//
+//db.call.find().pretty()
+//
+//db.a.remove(())
+//db.call.find().pretty()
+//
+//db
+//
+//db.dropDatabase()
+//
+//show dbs
