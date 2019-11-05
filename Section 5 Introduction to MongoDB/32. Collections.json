@@ -1,0 +1,5 @@
+# use New
+# 
+# db.createColllection("hello")
+# db.createColllection("log", (capped: true, size: 54000, max: 100))
+
