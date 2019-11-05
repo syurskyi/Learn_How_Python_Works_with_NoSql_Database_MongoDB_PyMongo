@@ -1,0 +1,16 @@
+//show dbs
+//
+//use mydb
+
+//show collections
+//
+//db.a.find().pretty()
+//
+//db.a.find(("age" : ($gt :18))).sort(("age" : 1))
+//
+//
+//db.a.find(("age" : ($gt :18))).sort(("age" : -1))
+//
+//db.a.find(("age" : ($gt :20))).count()
+//
+//db.a.find(("age" : ($lt :18))).limit(1)
