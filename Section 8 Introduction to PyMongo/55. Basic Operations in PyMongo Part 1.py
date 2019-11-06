@@ -22,5 +22,5 @@ results = stud1.find()
 
 # it will retrive only 2 documents
 
-for record in results[ :2]:
+for record in results[:2]:
     print("here are the documents:", record)
