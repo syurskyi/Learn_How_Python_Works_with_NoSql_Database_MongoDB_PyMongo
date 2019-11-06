@@ -1,0 +1,13 @@
+//show dbs
+//
+//use Demo
+//
+//show collections
+//
+//db.hello.insert(("name": "mary", "age": 30))
+//
+//db.hello.insert(("name": "abc", "age": "xyz"))
+//
+//db.hello.insertOne(("name": "abc"))
+//
+//db.hello.findOne("name": "xyz "
